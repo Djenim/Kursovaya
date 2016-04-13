@@ -1,0 +1,9 @@
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\bin\Debug\Berhstein.exe.config
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\obj\Debug\Berhstein.csprojResolveAssemblyReference.cache
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\obj\Debug\Berhstein.Properties.Resources.resources
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\obj\Debug\Berhstein.csproj.GenerateResource.Cache
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\bin\Debug\Berhstein.exe
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\bin\Debug\Berhstein.pdb
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\obj\Debug\Berhstein.exe
+c:\users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\obj\Debug\Berhstein.pdb
+C:\Users\stet\documents\visual studio 2015\Projects\Berhstein\Berhstein\obj\Debug\Berhstein.BurseApp.resources
